@@ -1,0 +1,18 @@
+
+Topics Discussed:
+
+1. Props - Styles in app.jsx and getting in the in components.jsx - In the Dynamic way
+2. PropTypes - checking the type
+3. Types of exports - Default and absolute 
+4. Class components 
+
+
+
+Conditional Rendering - Task 1 React Card 
+1. Copy paste Emoji - Check emoji and cross mark 
+
+Cntl + D 
+
+npm install
+npm start
+run dev
